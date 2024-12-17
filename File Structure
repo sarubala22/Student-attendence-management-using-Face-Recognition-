@@ -1,0 +1,3 @@
+├── student_images/   # Folder to store student images
+├── attendance.csv    # CSV file to store attendance
+└── face_attendance.py # Main script
